@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+h3, h4{
+	color: black;
+	margin: 15px 0px;
+	font-weight: normal;
+}	
+.top{
+	
+	background: #a29bfe;
+}
+.vertical-menu {
+    width: 200px;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.menu{
+	padding: 0;
+}
+.nav li{
+	border-radius: 0;
+}
+.menu-main{
+	margin: 20px 0px;
+}
+.left{
+	border: 1px solid black;
+	padding: 20px;
+	
+}
